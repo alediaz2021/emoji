@@ -14,6 +14,8 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
 
 Jhjhjhjhjhjhjhjhhjhjh
     
+    clone2222
+    
     var emojis = ["😀", "😌", "😗", "🥰", "🤣"]
     
     override func viewDidLoad() {
